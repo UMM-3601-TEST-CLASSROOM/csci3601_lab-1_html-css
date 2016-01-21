@@ -4,7 +4,7 @@ Your task for this lab is to develop a static web page for a small business, suc
 
 All of the formatting (including the positioning of elements in the page) must be done using CSS. Do not include width, height, fonts, colors, etc into your HTML. Do not use absolute settings for sizes, make them relative to your page size and your default font. You are required to use some HTML5 and may use CSS3 features. If a feature is not supported in some browsers, please clearly indicate which browsers support it and which ones don't. 
 
-## Technical Requirments:
+## Technical Requirements:
 Please read carefully the list of technical requirements below and follow it precisely.
 
   - Your page must use an **external CSS file**. You may, if needed, use inline CSS for more specific settings, but make sure to explain (in comments) why it's needed.
